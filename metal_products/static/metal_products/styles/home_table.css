@@ -1,0 +1,11 @@
+.panel-default > .panel-heading {
+    color: #000000;
+    background-color: #3b3b3b;
+    border-color: #ddd;
+}
+td {
+	text-align: center;
+}
+.row_ml {
+	vertical-align: middle;
+}
